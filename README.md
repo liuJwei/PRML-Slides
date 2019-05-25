@@ -1,2 +1,2 @@
 # PRML-Slides
-Self-study notes of **Pattern Recognition and Machine Learning**
+Self-study notes of Bishop's book **Pattern Recognition and Machine Learning**.
